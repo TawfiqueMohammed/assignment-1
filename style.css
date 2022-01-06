@@ -7,6 +7,9 @@ body{
 }
 .half-width{
     width: 50%;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
 }
 .first-line{
     border-left: 3px solid;
@@ -35,6 +38,18 @@ body{
 }
 .flexible-container{
     display: flex;
-    margin-top: 50px;
+    margin-top: 30px;
     margin-bottom: 100px;
+}
+#mission-part{
+    background-color: #F0F8FF;
+}
+#vision-part{
+    background-color: #FFC0CB;
+}
+#goals-part{
+    background-color: #FFFACD;
+}
+#third-section{
+    
 }
