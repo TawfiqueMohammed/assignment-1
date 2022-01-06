@@ -1,0 +1,40 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+}
+.first-font{
+    font-family: 'Ubuntu', sans-serif;
+}
+.half-width{
+    width: 50%;
+}
+.first-line{
+    border-left: 3px solid;
+    border-image: linear-gradient(red,orange);
+    border-image-slice: 1;
+    padding-left: 7px;
+}
+.common-section{
+    width: 50%;
+    padding-left: 70px;
+}
+.orange{
+    color: orange;
+}
+.half-width img{
+    width: 60%;
+    padding-left: 2%;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    background-color: orange;
+    font-weight: 700;
+    padding: 6px 6px;
+    border-radius: 3px;
+}
+.flexible-container{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
